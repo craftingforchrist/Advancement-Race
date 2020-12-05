@@ -16,9 +16,6 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "rewards": {
-    "experience": 65
-  },
   "criteria": {
     "two_birds": {
       "trigger": "minecraft:killed_by_crossbow",
@@ -50,5 +47,10 @@
     [
       "two_birds"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance",
+    "experience":65
+	}
 }
