@@ -65,5 +65,9 @@
       "iron_leggings",
       "iron_boots"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
