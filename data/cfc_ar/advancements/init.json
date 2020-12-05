@@ -6,6 +6,6 @@
     },
   	"rewards":
   	{
-  		"function": "cdc_ar:init"
+  		"function": "cfc_ar:init"
   	}
 }
