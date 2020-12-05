@@ -35,5 +35,9 @@
     [
       "shot_trident"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
