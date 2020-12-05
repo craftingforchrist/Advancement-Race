@@ -58,6 +58,6 @@
 	"rewards":
 	{
 		"function": "cfc_ar:advance",
-    "experience": 1000
+		"experience": 1000
 	}
 }
