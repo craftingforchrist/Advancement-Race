@@ -15,9 +15,6 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "rewards": {
-    "experience": 50
-  },
   "criteria": {
     "killed_skeleton": {
       "trigger": "minecraft:player_killed_entity",
@@ -46,5 +43,10 @@
     [
       "killed_skeleton"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance",
+    "experience":50
+	}
 }
