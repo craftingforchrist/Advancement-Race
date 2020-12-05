@@ -16,9 +16,6 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "rewards": {
-    "experience": 100
-  },
   "criteria": {
     "minecraft:blaze": {
       "trigger": "minecraft:player_killed_entity",
@@ -600,5 +597,10 @@
     [
       "minecraft:zombified_piglin"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance",
+    "experience":100
+	}
 }
