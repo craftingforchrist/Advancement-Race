@@ -38,5 +38,9 @@
     [
       "kill_pillager"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
