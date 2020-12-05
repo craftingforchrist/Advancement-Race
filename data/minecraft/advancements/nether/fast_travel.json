@@ -15,9 +15,6 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "rewards": {
-    "experience": 100
-  },
   "criteria": {
     "travelled": {
       "trigger": "minecraft:nether_travel",
@@ -34,5 +31,10 @@
     [
       "travelled"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance",
+    "experience": 100
+	}
 }
