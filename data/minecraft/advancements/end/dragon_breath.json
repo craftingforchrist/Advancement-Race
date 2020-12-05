@@ -31,5 +31,9 @@
     [
       "dragon_breath"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
