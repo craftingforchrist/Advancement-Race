@@ -32,5 +32,9 @@
     [
       "get_stone"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
