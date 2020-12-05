@@ -15,9 +15,6 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "rewards": {
-    "experience": 100
-  },
   "criteria": {
     "killed_ghast": {
       "trigger": "minecraft:player_killed_entity",
@@ -41,5 +38,10 @@
     [
       "killed_ghast"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance",
+    "experience":100
+	}
 }
