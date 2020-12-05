@@ -15,9 +15,6 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "rewards": {
-    "experience": 50
-  },
   "criteria": {
     "levitated": {
       "trigger": "minecraft:levitation",
@@ -34,5 +31,10 @@
     [
       "levitated"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance",
+    "experience":50
+	}
 }
