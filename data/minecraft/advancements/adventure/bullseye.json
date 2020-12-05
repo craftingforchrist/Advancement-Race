@@ -15,9 +15,6 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "rewards": {
-    "experience": 50
-  },
   "criteria": {
     "bullseye": {
       "trigger": "minecraft:target_hit",
@@ -43,5 +40,10 @@
     [
       "bullseye"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance",
+    "experience":50
+	}
 }
