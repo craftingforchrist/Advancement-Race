@@ -25,5 +25,9 @@
     [
       "cured_zombie"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
