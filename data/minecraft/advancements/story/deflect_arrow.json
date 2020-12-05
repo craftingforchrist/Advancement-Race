@@ -33,5 +33,9 @@
     [
       "deflected_projectile"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
