@@ -38,5 +38,9 @@
     [
       "silk_touch_nest"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
