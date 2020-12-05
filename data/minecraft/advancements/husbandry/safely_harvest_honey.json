@@ -35,5 +35,9 @@
     [
       "safely_harvest_honey"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
