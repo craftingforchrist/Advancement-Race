@@ -15,9 +15,6 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "rewards": {
-    "experience": 100
-  },
   "criteria": {
     "minecraft:horse": {
       "trigger": "minecraft:bred_animals",
@@ -353,5 +350,10 @@
     [
       "minecraft:turtle"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance",
+    "experience":100
+	}
 }
