@@ -16,9 +16,6 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "rewards": {
-    "experience": 500
-  },
   "criteria": {
     "minecraft:birch_forest_hills": {
       "trigger": "minecraft:location",
@@ -484,5 +481,10 @@
     [
       "minecraft:bamboo_jungle_hills"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance",
+    "experience":500
+	}
 }
