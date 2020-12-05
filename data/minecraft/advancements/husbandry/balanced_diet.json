@@ -15,9 +15,6 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "rewards": {
-    "experience": 100
-  },
   "criteria": {
     "apple": {
       "trigger": "minecraft:consume_item",
@@ -450,5 +447,10 @@
     [
       "honey_bottle"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance",
+    "experience":100
+	}
 }
