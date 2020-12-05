@@ -25,5 +25,9 @@
     [
       "enchanted_item"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
