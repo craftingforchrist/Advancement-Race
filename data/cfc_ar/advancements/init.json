@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:story/root",
+    "criteria":
+    {
+        "instant": {"trigger": "minecraft:tick"}
+    },
+  	"rewards":
+  	{
+  		"function": "cdc_ar:init"
+  	}
+}
