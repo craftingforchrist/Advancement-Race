@@ -16,9 +16,6 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "rewards": {
-    "experience": 100
-  },
   "criteria": {
     "netherite_hoe": {
       "trigger": "minecraft:inventory_changed",
@@ -35,5 +32,10 @@
     [
       "netherite_hoe"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance",
+    "experience":100
+	}
 }
