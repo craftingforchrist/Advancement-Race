@@ -15,9 +15,6 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "rewards": {
-    "experience": 50
-  },
   "criteria": {
     "textures/entity/cat/tabby.png": {
       "trigger": "minecraft:tame_animal",
@@ -208,5 +205,10 @@
     [
       "textures/entity/cat/all_black.png"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance",
+    "experience":50
+	}
 }
