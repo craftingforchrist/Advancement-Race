@@ -31,5 +31,9 @@
     [
       "wither_skull"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
