@@ -29,5 +29,9 @@
     [
       "used_totem"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
