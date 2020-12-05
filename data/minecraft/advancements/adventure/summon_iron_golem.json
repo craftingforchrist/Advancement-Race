@@ -35,5 +35,9 @@
     [
       "summoned_golem"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
