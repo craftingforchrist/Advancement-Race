@@ -178,5 +178,9 @@
       "distract_piglin",
       "distract_piglin_directly"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
