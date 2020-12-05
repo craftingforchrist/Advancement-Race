@@ -29,5 +29,9 @@
     [
       "in_city"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
