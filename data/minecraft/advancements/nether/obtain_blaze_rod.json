@@ -31,5 +31,9 @@
     [
       "blaze_rod"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
