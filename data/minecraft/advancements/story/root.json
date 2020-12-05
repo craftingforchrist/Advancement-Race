@@ -31,5 +31,9 @@
     [
       "crafting_table"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
