@@ -27,5 +27,9 @@
     [
       "entered_end_gateway"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
