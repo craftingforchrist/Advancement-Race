@@ -16,9 +16,6 @@
     "announce_to_chat": true,
     "hidden": true
   },
-  "rewards": {
-    "experience": 85
-  },
   "criteria": {
     "arbalistic": {
       "trigger": "minecraft:killed_by_crossbow",
@@ -31,5 +28,10 @@
     [
       "arbalistic"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance",
+    "experience":85
+	}
 }
