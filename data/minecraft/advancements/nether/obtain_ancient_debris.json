@@ -31,5 +31,9 @@
     [
       "ancient_debris"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
