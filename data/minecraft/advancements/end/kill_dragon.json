@@ -35,5 +35,9 @@
     [
       "killed_dragon"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
