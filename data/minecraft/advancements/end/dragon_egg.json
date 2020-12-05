@@ -31,5 +31,9 @@
     [
       "dragon_egg"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
