@@ -31,5 +31,9 @@
     [
       "obsidian"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
