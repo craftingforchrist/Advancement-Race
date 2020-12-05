@@ -55,5 +55,9 @@
       "beetroots",
       "nether_wart"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
