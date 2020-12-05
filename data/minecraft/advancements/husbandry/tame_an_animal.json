@@ -25,5 +25,9 @@
     [
       "tamed_animal"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
