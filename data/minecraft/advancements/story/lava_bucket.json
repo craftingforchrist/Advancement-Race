@@ -31,5 +31,9 @@
     [
       "lava_bucket"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
