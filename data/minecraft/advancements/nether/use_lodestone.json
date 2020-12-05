@@ -34,5 +34,9 @@
     [
       "use_lodestone"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
