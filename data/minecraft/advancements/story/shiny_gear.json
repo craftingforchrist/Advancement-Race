@@ -65,5 +65,9 @@
       "diamond_leggings",
       "diamond_boots"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
