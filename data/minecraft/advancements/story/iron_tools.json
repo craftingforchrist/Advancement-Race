@@ -32,5 +32,9 @@
     [
       "iron_pickaxe"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
