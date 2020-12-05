@@ -28,5 +28,9 @@
     [
       "entered_nether"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
