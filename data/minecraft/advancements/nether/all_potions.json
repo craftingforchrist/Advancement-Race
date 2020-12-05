@@ -15,9 +15,6 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "rewards": {
-    "experience": 100
-  },
   "criteria": {
     "all_effects": {
       "trigger": "minecraft:effects_changed",
@@ -44,5 +41,10 @@
     [
       "all_effects"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance",
+		"experience": 1000
+	}
 }
