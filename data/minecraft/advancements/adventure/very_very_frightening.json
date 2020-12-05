@@ -38,5 +38,9 @@
     [
       "struck_villager"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
