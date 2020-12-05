@@ -25,5 +25,9 @@
     [
       "slept_in_bed"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
