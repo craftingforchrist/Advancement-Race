@@ -56,5 +56,9 @@
       "pufferfish_bucket",
       "salmon_bucket"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
