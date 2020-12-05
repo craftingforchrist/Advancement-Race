@@ -531,5 +531,9 @@
       "minecraft:zombie",
       "minecraft:zombified_piglin"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
