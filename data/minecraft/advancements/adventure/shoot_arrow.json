@@ -35,5 +35,9 @@
     [
       "shot_arrow"
     ]
-  ]
+  ],
+	"rewards":
+	{
+		"function": "cfc_ar:advance"
+	}
 }
